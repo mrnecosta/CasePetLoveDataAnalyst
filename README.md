@@ -10,5 +10,5 @@ dados_pet['created_year'] = nova coluna no df original, foi utilizada para separ
 dados_pet['deleted_year'] = nova coluna no df original, foi utilizada para separar o ano da coluna [deleted_at];   
 dados_petCopy['periodo'] = nova coluna no df CÓPIA, para calcular o período de assinatura dos clientes que cancelaram assinatura;  
 
-Todos os gráficos presentes no Notebook possuem títulos que explicitam os eixos.
+Todos os gráficos presentes no Notebook possuem títulos que explicitam os eixos.  
 A apresentação está disponível em:   https://drive.google.com/file/d/1hEYAjhSvM7iIR48PAKvBokyh90h6P7xs/view?usp=sharing
